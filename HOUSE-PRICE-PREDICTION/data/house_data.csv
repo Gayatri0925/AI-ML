@@ -1,0 +1,16 @@
+location,sqft,bedrooms,bathrooms,age_of_house,smart_home,green_certified,tech_score,iot_enabled
+Downtown,1500,3,2,5,1,1,8,1
+Downtown,1200,2,1,10,0,0,6,0
+Downtown,1800,4,3,3,1,1,9,1
+Downtown,1000,2,1,15,0,0,5,0
+Uptown,2000,4,3,4,1,1,9,1
+Uptown,1600,3,2,7,1,0,7,0
+Uptown,2200,5,3,2,1,1,10,1
+Uptown,1400,3,2,12,0,0,6,0
+Suburb,2500,5,4,1,1,1,10,1
+Suburb,1800,4,3,6,1,1,8,1
+Suburb,2000,3,2,8,0,0,7,0
+Suburb,1500,3,2,14,0,0,5,0
+Riverside,2100,4,3,5,1,1,9,1
+Riverside,1700,3,2,9,0,1,7,0
+Riverside,2300,5,4,3,1,1,10,1

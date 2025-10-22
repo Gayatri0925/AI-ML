@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey"],
+      "responses": ["Hello!", "Hi there!", "Hey!"]
+    },
+    {
+      "tag": "bye",
+      "patterns": ["bye", "goodbye"],
+      "responses": ["Goodbye!", "See you later!", "Bye!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you"],
+      "responses": ["You're welcome!", "No problem!", "Anytime!"]
+    }
+  ]
+}

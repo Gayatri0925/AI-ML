@@ -1,0 +1,15 @@
+🌍 Weather Information App
+Enter city name (Example: London, New York, Mumbai): Delhi
+{'city': 'Delhi', 'temperature': 27.05, 'humidity': 47, 'condition': 'Haze', 'wind': 1.54}
+
+
+🌍 Weather Information App
+Enter city name (Example: London, New York, Mumbai): Finland
+{'city': 'Finland', 'temperature': 5.12, 'humidity': 68, 'condition': 'Few Clouds', 'wind': 4.19}
+
+
+#WRONG SPELLING
+
+🌍 Weather Information App
+Enter city name (Example: London, New York, Mumbai): delhii
+⚠️ Error: city not found
